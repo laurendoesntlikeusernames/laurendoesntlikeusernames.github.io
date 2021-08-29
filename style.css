@@ -1,5 +1,19 @@
+html {
+    font-family: serif;
+    font-size: 1.5em;
+}
+
 body {
-    background-color: rgb(245, 225, 218);
+    background-color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+    color: darkslateblue;
+}
+
+li {
+    list-style: none;
 }
 
 :focus {
